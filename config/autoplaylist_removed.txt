@@ -1,0 +1,36 @@
+# Entry removed Wed Dec 20 21:23:06 2017
+# Reason: ERROR: h9YEWIpBQco: YouTube said: The uploader has not made this video available.
+https://youtube.com/watch?v=h9YEWIpBQco
+
+################################
+
+# Entry removed Wed Dec 20 22:34:51 2017
+# Reason: ERROR: ONcXJljaoyE: YouTube said: This video is not available.
+https://youtube.com/watch?v=ONcXJljaoyE
+
+################################
+
+# Entry removed Thu Dec 21 14:54:47 2017
+# Reason: ERROR: A9nz5UxBZNc: YouTube said: This video is not available.
+https://youtube.com/watch?v=A9nz5UxBZNc
+
+################################
+
+# Entry removed Thu Dec 21 15:44:11 2017
+# Reason: ERROR: Haypxj24_Uw: YouTube said: This video is no longer available because the YouTube account associated with this video has been terminated.
+https://youtube.com/watch?v=Haypxj24_Uw
+
+################################
+
+# Entry removed Thu Dec 21 16:10:41 2017
+# Reason: ERROR: TZnjF8c1lEY: YouTube said: This video is not available.
+https://youtube.com/watch?v=TZnjF8c1lEY
+
+################################
+
+# Entry removed Thu Dec 21 17:00:57 2017
+# Reason: ERROR: r4byIiHc5Eg: YouTube said: This video is not available.
+https://youtube.com/watch?v=r4byIiHc5Eg
+
+################################
+
